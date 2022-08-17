@@ -1,4 +1,7 @@
 # reaction-timer
+```
+A little game to measure your reflexes. Press play and click on the green block when it appears as fast as you can. 
+```
 
 ## Project setup
 ```
